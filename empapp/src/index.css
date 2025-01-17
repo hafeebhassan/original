@@ -1,0 +1,9 @@
+#root{
+  background-image: linear-gradient(white,grey);
+}
+
+h1{
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:black;
+}
